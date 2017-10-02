@@ -1,2 +1,2 @@
 # RajunCraft
-Stuff
+Mods and Configuration files used on RajunCraft.
